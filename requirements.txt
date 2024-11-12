@@ -7,3 +7,4 @@ astropy
 setuptools_scm
 setuptools==69.5.1
 genai
+google-generativeai
