@@ -6,5 +6,4 @@ streamlit
 astropy
 setuptools_scm
 setuptools==69.5.1
-os
 genai
